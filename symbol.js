@@ -12,3 +12,4 @@ console.log(myobj.k2)
 
 // Every symbol is differnt 
 // symbol is used make a unique idenfier if value is same still they won't be equal
+// Every time it generate new primitive
