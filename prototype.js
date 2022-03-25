@@ -80,20 +80,20 @@
 
 
 
-// const person = {
-//     firstName: 'John',
-//     lastName: 'Doe',
-//     age: 25
-// };
+const person = {
+    firstName: 'John',
+    lastName: 'December of the value that grow on the value of the value that can be the first vlaue of the values ',
+    age: 25
+};
 
-// for (const key in person) {
-//     if (person.hasOwnProperty(key)) {
-//         const value = person[key];
-//         console.log(value);
+for (const key in person) {
+    if (person.hasOwnProperty(key)) {
+        const value = person[key];
+        console.log(value);
 
-//     }
-// }
+    }
+}
 
 
-console.log(Object.values)
+
 
